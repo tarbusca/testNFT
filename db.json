@@ -99,6 +99,7 @@
 			"weapon1": "Bind",
 			"weapon2": "Poison Power"
         },
+		{
             "id": 10,
             "description": "Umbreon2 Pokemon",
             "image": "https://github.com/tarbusca/testNFT/blob/master/art/10.png",
