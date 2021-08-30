@@ -2,10 +2,14 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
+            "description": "Jolteon Pokemon",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
+            "name": "Jolteon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Electrigun",
+			"weapon2": "Pin Missile"
         },
         {
             "id": 1,
